@@ -11,7 +11,7 @@ alt="Video Emo" width="240" height="180" border="10" /></a>
 
 This is the code for my wordsearch clock!
 
-[More info](http://danny.makesthings.work/wordsearchclock.html)
+[More info](http://danny.makesthings.work/wordsearch.html)
 
 The main part is "wordsearchClock.ino", used for programming the Arduino.
 
