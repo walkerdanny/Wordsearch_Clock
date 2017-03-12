@@ -1,4 +1,4 @@
-# Wordsearch_Clock
+# Wordsearch Clock
 
 ### Arduino based clock that animates a wordsearch to display the time
 
