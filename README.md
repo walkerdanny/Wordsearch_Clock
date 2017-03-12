@@ -16,3 +16,5 @@ This is the code for my wordsearch clock!
 The main part is "wordsearchClock.ino", used for programming the Arduino.
 
 It relies on the [Time library](https://www.pjrc.com/teensy/td_libs_Time.html), [DS3232RTC Library](https://github.com/JChristensen/DS3232RTC) and [FastLED](http://fastled.io).
+
+The file "gridGenerator.pde" generates a PDF of the letter grid, given an array of letters. The file "Letter_Grid.pdf" is the front face of the clock that I used.
